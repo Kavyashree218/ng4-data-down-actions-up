@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "ng4-data-down-actions-up": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng4-data-down-actions-up"
+    }
+  },
+  "defaultProject": "ng4-data-down-actions-up",
+  "cli": {
+    "analytics": "e7f39249-8f49-4467-8579-0d78fa3ef532"
+  }
 }
